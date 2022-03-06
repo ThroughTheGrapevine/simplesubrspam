@@ -1,6 +1,5 @@
 import json
 import praw
-import requests
 import asyncio
 
 subr = 'testing' #define subreddit
